@@ -1,0 +1,3 @@
+s = "salom"
+
+print(s)
